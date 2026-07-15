@@ -70,6 +70,6 @@ This project implements a Traffic Light Controller using Verilog HDL. The contro
 
 ## Author
 
-**Harshit S**
+**Harshit Saini**
 
 Internship Project - Codec Technologies
