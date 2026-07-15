@@ -62,9 +62,9 @@ This project implements a Traffic Light Controller using Verilog HDL. The contro
 
 ---
 
-## Simulation Waveform
+## Simulation Waveform 
 
-![Waveform](waveform.png)
+![Waveform](Screenshot%202026-07-15%20082600.png)
 
 ---
 
